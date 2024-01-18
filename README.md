@@ -7,7 +7,7 @@ Learning JavaScript Keys in This Project:
 
 <ul>
 <li> JavaScript Function</li>
-<li>JavaScript Fetch Nethod </li>
+<li>JavaScript Fetch Method </li>
 <li>Map Method</li>
 <li>Dom</li>
 <li>Events</li>
